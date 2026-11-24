@@ -17,6 +17,7 @@ Dashboard Power BI untuk memantau kinerja penjualan elektronik: omzet, profitabi
 - Sekitar 68% omzet datang dari transaksi tanpa promo; porsi transaksi via promo turun dibanding tahun lalu.
 - Rata-rata frekuensi dan GPM antar segmen hampir sama, jadi segmentasi saat ini belum membedakan perilaku beli.
 - Tingkat retur sekitar 9,95%, membaik tipis dari tahun lalu.
+- Omzet, laba kotor, dan jumlah transaksi 2025 turun dibanding 2024 (omzet turun 2,91%).
 
 ## Rekomendasi
 - Uji promo musiman (Lebaran, Year End Sale, HUT RI) karena kontribusi omzetnya masih di bawah 1%
